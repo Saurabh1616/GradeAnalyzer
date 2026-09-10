@@ -36,7 +36,7 @@ The program assigns a grade based on the student's marks.
 
 | Marks | Grade |
 |---|---|
-| 90–100 | A+ |
+| 90–100 | S |
 | 80–89 | A |
 | 70–79 | B |
 | 60–69 | C |
